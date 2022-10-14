@@ -1,0 +1,14 @@
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.csproj.AssemblyReference.cache
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.AssemblyInfoInputs.cache
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.AssemblyInfo.cs
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.csproj.CoreCompileInputs.cache
+C:\Users\victor.bucar\source\repos\Gigs\bin\Debug\netcoreapp3.1\Gigs.exe
+C:\Users\victor.bucar\source\repos\Gigs\bin\Debug\netcoreapp3.1\Gigs.deps.json
+C:\Users\victor.bucar\source\repos\Gigs\bin\Debug\netcoreapp3.1\Gigs.runtimeconfig.json
+C:\Users\victor.bucar\source\repos\Gigs\bin\Debug\netcoreapp3.1\Gigs.runtimeconfig.dev.json
+C:\Users\victor.bucar\source\repos\Gigs\bin\Debug\netcoreapp3.1\Gigs.dll
+C:\Users\victor.bucar\source\repos\Gigs\bin\Debug\netcoreapp3.1\Gigs.pdb
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.dll
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.pdb
+C:\Users\victor.bucar\source\repos\Gigs\obj\Debug\netcoreapp3.1\Gigs.genruntimeconfig.cache

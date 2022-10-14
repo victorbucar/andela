@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A57+mLP5lmeE1xAWeHyfTYtsEUorX69DW2gIWQi3iMtMz3v5G9mkG5Jc82LEPdTuJijPY0GW/4Y79RySAX5HEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor.bucar\\source\\repos\\Gigs\\Gigs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor.bucar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
